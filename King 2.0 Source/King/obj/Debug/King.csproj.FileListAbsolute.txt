@@ -1,0 +1,12 @@
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.csprojAssemblyReference.cache
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.Form1.resources
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.csproj.GenerateResource.cache
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.csproj.CoreCompileInputs.cache
+C:\Users\giant\Desktop\King Source\King\bin\Debug\King.exe
+C:\Users\giant\Desktop\King Source\King\bin\Debug\King.pdb
+C:\Users\giant\Desktop\King Source\King\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\giant\Desktop\King Source\King\bin\Debug\FlatUI.dll
+C:\Users\giant\Desktop\King Source\King\bin\Debug\WeAreDevs_API.dll
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.csproj.CopyComplete
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.exe
+C:\Users\giant\Desktop\King Source\King\obj\Debug\King.pdb
